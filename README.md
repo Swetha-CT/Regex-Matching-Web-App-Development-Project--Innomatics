@@ -1,6 +1,6 @@
 # Regex-Matching-Web-App-Development-Project
 Regex Matching Web App Development Project and Deploying Application on AWS
-## Public Link:
+## AWS Link:
 http://16.171.152.78:5000/
 
 ## Features:
